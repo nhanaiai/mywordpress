@@ -92,7 +92,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://nhanaiai.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/nhanai_db\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://nhanaiai.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"2eaf972e99"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"a5d49f3a6e"};</script>
 <script id="user-profile-js-translations">( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
